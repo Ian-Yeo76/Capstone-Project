@@ -1,2 +1,2 @@
 # Capstone-Project
-Capstone project by Ian, Justin, Dylan, Gerald, Rodney of ComSpecAI.
+Capstone project by Ian, Justin, Dylan, Gerald, Rodney of ComSpecAI (work in progress)
